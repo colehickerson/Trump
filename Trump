@@ -1,0 +1,7 @@
+public class Trump
+{
+public Static void main(String[] args)
+{
+	System.out.println("I love Trump")}
+}
+}
